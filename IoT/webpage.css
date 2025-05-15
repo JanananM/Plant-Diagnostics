@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color:brown;
+    text-align:center;
+}
+
+.iot{
+	background-color: lightgreen;
+	padding: 20px;
+	text-align:center;
+	font-family:helvetica;
+	border-radius: 25px;
+}
+
+table{
+	width:100%;
+	height:100%;
+}
+
+th{
+		padding: 100px;
+		text-align: center;
+		font-family: helvetica;
+}
+
+th:hover{
+	background-color: brown;
+	color:white;
+}
+
