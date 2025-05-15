@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="text">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="Silkscreen0LogoTextModuleID" modelIndex="1875955" path=":/resources/parts/core/silkscreen0logotext.fzp">
+            <property name="logo" value="logo"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="cellular shield-v12" modelIndex="1873079" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/cellular shield-v12.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-4p-125h" modelIndex="1875958" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-4p-125h_8.fzp" flippedSMD="true">
+            <property name="part number" value="DF13A-4P-1.25H"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_infrared_emitter" modelIndex="1875960" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_infrared_emitter.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Teensy3.0" modelIndex="1875962" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Teensy 3.0.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-8p-125h" modelIndex="1875964" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-8p-125h_4.fzp" flippedSMD="true">
+            <property name="part number" value="DF13A-8P-1.25H"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-6p-125h" modelIndex="1875966" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-6p-125h_18.fzp" flippedSMD="true">
+            <property name="part number" value="DF13A-6P-1.25H"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="23LCV1024_24357530b44412a899aa27521bf5766d_1" modelIndex="1875968" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/23LCV1024_1.fzp">
+            <property name="part number" value="23LCV1024"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="5727" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="logo"/>
+            <property name="color" value="#787878"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="P1000K_laydown" modelIndex="1875971" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Rectifier Diode 10A.fzp">
+            <property name="part number" value="P1000K"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_ORP Circuit" modelIndex="1873099" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_ORP Circuit.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="d63bf67236bb974ced6c30c1d9f152a9_18" modelIndex="1872983" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/MPX2010 pressure sensor.fzp">
+            <property name="part number" value="MPX"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad-Light Sensor-v13" modelIndex="1873672" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-Light Sensor-v13.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="bareconductive_touchboard" modelIndex="5680" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/bareconductive_touchboard.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="HC-05-male_fix" modelIndex="1875977" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/HC-05-male_fix.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad-Temp-v12" modelIndex="1873679" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-Temp-v12.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="PowerSupply-Lipo-v15" modelIndex="1873701" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/PowerSupply-Lipo-v15.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_PWR-SNS" modelIndex="1873121" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_PWR-SNS.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-7p-125v" modelIndex="1875982" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-7p-125v_9.fzp" flippedSMD="true">
+            <property name="part number" value="DF13#-7P-1.25V"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-2p-125h" modelIndex="5709" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-2p-125h_42.fzp" flippedSMD="true">
+            <property name="part number" value="DF13A-2P-1.25H"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="ab15a34dfcf83e23a26e83fe8a5a4dac_2" modelIndex="5651" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Textile Potentiometer.fzp">
+            <property name="part number" value="PW064"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="NRF24L01+_breakout" modelIndex="1875986" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/NRF24L01+_breakout.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_3axis_digital_accelerometer_16g" modelIndex="1875988" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_3axis_digital_accelerometer_16g.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0771_smd-7p-v" modelIndex="1875990" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0771_smd-7p-v_8.fzp" flippedSMD="true">
+            <property name="part number" value="0533980771"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Pre-AssembledFemaleBNC" modelIndex="1873132" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_Pre-AssembledFemaleBNC.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_light_sensor" modelIndex="1873730" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_light_sensor.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="fa46ea3312d60697b8e907a5c75db23d_2" modelIndex="5653" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Textile Stretch Sensor.fzp">
+            <property name="part number" value="PW052"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad Battery-Connect-v11" modelIndex="1873740" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad Battery-Connect-v11.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-3p-125v" modelIndex="1875996" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-3p-125v_42.fzp" flippedSMD="true">
+            <property name="part number" value="DF13#-3P-1.25V"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="PHOTON_fix" modelIndex="1872988" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/PHOTON_fix.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad-Button-v12" modelIndex="1873744" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-Button-v12.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-NOSILK" modelIndex="1873538" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-nosilk.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="FINALWEIO_ff7656622014dbb325626f2fefde52eb_1" modelIndex="1876001" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeIO.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Buzzer-v15" modelIndex="1873418" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Buzzer-v15.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-FKIT-SNAP_CONNECTOR--MALE" modelIndex="1876004" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-fkit-snap_connector--male.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="arduino_Yun(rev1)_v1" modelIndex="5700" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_Yun(rev1)_v1.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="1876007" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino Voice Shield-v16.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="teensy_3.1" modelIndex="5681" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/teensy_3.1.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_4digit_display" modelIndex="1876010" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_4digit_display.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0219_smd-2p-h" modelIndex="5707" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0219_smd-2p-h_48.fzp" flippedSMD="true">
+            <property name="part number" value="0532610219"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="EspruinoPico" modelIndex="1873183" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_temperature_sensor" modelIndex="1873768" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_temperature_sensor.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0371_smd-3p-v" modelIndex="1876015" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0371_smd-3p-v_10.fzp" flippedSMD="true">
+            <property name="part number" value="0533980371"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="chipkit_MX4" modelIndex="1876017" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_MX4.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="arch_v1.1" modelIndex="1873190" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_arch_v1.1.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Lilypad_PowerSupply-v18" modelIndex="1873773" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Lilypad_PowerSupply-v18.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="74HC139N_fa229dffcda5c58d9e589070e2239d6d_1" modelIndex="1876021" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/74HC139N_1.fzp">
+            <property name="part number" value="74HC139N"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_pH Circuit" modelIndex="1873195" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_pH Circuit.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="daf5c6f3ee7e6da72522d1ea59fca803_65" modelIndex="1876024" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/CAR_RELE_NVF4-2.fzp">
+            <property name="part number" value="NVF4-2"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="ESP8266_7" modelIndex="1876026" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/ESP8266_7.fzp" flippedSMD="true">
+            <property name="part number" value="ESP8266"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0271_smd-2p-v" modelIndex="5708" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0271_smd-2p-v_18.fzp" flippedSMD="true">
+            <property name="part number" value="0533980271"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Conductivity Circuit" modelIndex="1873204" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_Conductivity Circuit.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Trackballer-v12" modelIndex="1873206" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Trackballer-v12.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0619_smd-6p-h" modelIndex="1876031" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0619_smd-6p-h_16.fzp" flippedSMD="true">
+            <property name="part number" value="0532610619"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-8X2" modelIndex="1873548" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-8x2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Frode_3fbd71bd2aded84aad94c91d960efcc1_1" modelIndex="1876034" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Frode_1.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Tricolor-LED v16" modelIndex="1873218" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Tricolor-LED v16.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SchematicLogoTextModuleID" modelIndex="5734" path=":/resources/parts/core/schematiclogotext.fzp">
+            <property name="logo" value="logo"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="AMPHENOL-ACJS-MHDR" modelIndex="1876038" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/AMPHENOL-ACJS-MHDR.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-5p-125h" modelIndex="1876040" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-5p-125h_26.fzp" flippedSMD="true">
+            <property name="part number" value="DF13A-5P-1.25H"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="MPX4250AP_60bfc397c54bae166e67461339be2ca8_4" modelIndex="1872994" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/MPX4250AP pressure sensor.fzp">
+            <property name="part number" value="MPX"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_buzz" modelIndex="1876043" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_buzz.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-NOHOLES" modelIndex="1873553" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-noholes.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0519_smd-5p-h" modelIndex="1876046" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0519_smd-5p-h_24.fzp" flippedSMD="true">
+            <property name="part number" value="0532610519"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad-XBee-v15" modelIndex="1873817" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-XBee-v15.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_D.O. Circuit" modelIndex="1873819" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_D.O. Circuit.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad-Accelerometer-v17" modelIndex="1873821" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-Accelerometer-v17.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad Coincell-Battery-v17" modelIndex="1876051" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad Coincell-Battery-v17.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-8X2-KIT" modelIndex="1873555" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-8x2-kit.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="microsdmodule" modelIndex="1876054" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/microsdmodule.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_lily" modelIndex="1873242" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/FTDI Basic-v13_lily.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad-slide-switch13" modelIndex="1873244" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-slide-switch13.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Copper0LogoTextModuleID" modelIndex="1876058" path=":/resources/parts/core/copper0logotext.fzp">
+            <property name="logo" value="logo"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_FLO-30 Circuit" modelIndex="1873255" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_FLO-30 Circuit.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Serial Port Connector" modelIndex="1876061" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_Serial Port Connector.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SN74LVC2G14DBVR_fdd88c7268b73ebcc4ab7e9b12fb8353_2" modelIndex="1876063" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/SN74LVC2G14DBVR_2.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="arch_pro_v1" modelIndex="1873259" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_arch_pro_v1.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_oled_128x96" modelIndex="1873261" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_oled_128x96.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="A4950_f96ca75d4706a24394f9603716d558ed_37" modelIndex="1873044" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/A4950_37.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="4060_e09d902e037fab8d3ef620cfedcb2d7d_1" modelIndex="1876068" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/4060.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="FT230XQ_df1159ec8af0eb336d7fbe6068d3aed4_2" modelIndex="1876070" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/FT230XQ_2.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="DENSO 174917 ECU socket 48pin_c9a68151309697733439e70b6fbd83fd_1" modelIndex="1876072" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/174917_DENSO-ECU-socket_48pin-040-070.fzp">
+            <property name="part number" value="174917"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="1873277" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_BasicIOShield.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="chipkit_MotorShield" modelIndex="1873001" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_MotorShield.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_zero_rev-1.1" modelIndex="5699" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Raspberry Pi Zero.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_RJ-11" modelIndex="1876077" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_RJ-11.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="seeeduino_v3" modelIndex="1876079" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_seeeduino_v3.fzp">
+            <views>
+                <iconView layer="copper0">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0871_smd-8p-v" modelIndex="1876081" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0871_smd-8p-v_1.fzp" flippedSMD="true">
+            <property name="part number" value="0533980871"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0419_smd-4p-h" modelIndex="1876083" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0419_smd-4p-h_32.fzp" flippedSMD="true">
+            <property name="part number" value="0532610419"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Rotary_Switch_12x1_6ea97bf52c0dd3f7e91820cbb831579b_2" modelIndex="1876085" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Rotary_Switch_12x1.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="red_led_matrix8x8" modelIndex="1873291" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LBT2088AH.fzp">
+            <property name="part number" value="LBT2088AH"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-FKIT-RIBBON_CONNECTOR--2MM_R_REV2" modelIndex="1876088" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-fkit-ribbon_connector--2mm_r_rev2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="pololu0002_a988" modelIndex="1873052" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/pololu0002_a988.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="chipkit_WF32" modelIndex="5684" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_WF32.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-SILK" modelIndex="1873564" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-silk.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-5p-125v" modelIndex="1876093" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-5p-125v_25.fzp" flippedSMD="true">
+            <property name="part number" value="DF13#-5P-1.25V"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SIM800L_ffc8b43381ee538161803713ee68337c_5" modelIndex="1876095" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/SIM800L_5.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="4f6dc41d6d2f66341ea506cdaf0e797e_2" modelIndex="5650" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Textile Analog Pressure Sensor.fzp">
+            <property name="part number" value="PW073"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Debugger" modelIndex="1873889" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_Debugger.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_button" modelIndex="1876099" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_button.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="HLK-PM01_f3fff412ac55f21b5b3168355aacbaa9_1" modelIndex="1876101" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/HLK-PM01.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="4d1eb8f243c1aba7afe676122ea516cc_2" modelIndex="5652" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Textile Pushbutton.fzp">
+            <property name="part number" value="TACRACPS1X0404GY "/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-3p-125h" modelIndex="1876104" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-3p-125h_34.fzp" flippedSMD="true">
+            <property name="part number" value="DF13A-3P-1.25H"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-6p-125v" modelIndex="1876106" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-6p-125v_17.fzp" flippedSMD="true">
+            <property name="part number" value="DF13#-6P-1.25V"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0671_smd-6p-v" modelIndex="1876108" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0671_smd-6p-v_8.fzp" flippedSMD="true">
+            <property name="part number" value="0533980671"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0471_smd-4p-v" modelIndex="1876110" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0471_smd-4p-v_16.fzp" flippedSMD="true">
+            <property name="part number" value="0533980471"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Copper1LogoTextModuleID" modelIndex="1876112" path=":/resources/parts/core/copper1logotext.fzp">
+            <property name="logo" value="logo"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="144096d13637627703324c683e3211ec_40" modelIndex="1873319" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/OMRON_G5LE.fzp">
+            <property name="part number" value="G5LE-1&#10;"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Teensy3.0+pads" modelIndex="1876115" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Teensy 3.0+pads.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0319_smd-3p-h" modelIndex="1876117" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0319_smd-3p-h_40.fzp" flippedSMD="true">
+            <property name="part number" value="0532610319"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="NRF24L01_fix" modelIndex="1876119" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/NRF24L01_fix.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-7p-125h" modelIndex="1876121" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-7p-125h_10.fzp" flippedSMD="true">
+            <property name="part number" value="DF13A-7P-1.25H"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="P1000K_standup" modelIndex="1876123" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Rectifier Diode 10A_standup_on_PCB.fzp">
+            <property name="part number" value="P1000K"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="grove_infrared_receiver" modelIndex="1876125" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_infrared_receiver.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="2d505f861194750183f944ba86c13b44_28" modelIndex="1873350" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/tsop312.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="1873354" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/huzzah_esp8266.fzp">
+            <property name="part number" value="2471"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_3_rev-1.2" modelIndex="5698" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Raspberry Pi 3.fzp">
+            <property name="part number" value="RPI-3-V1.2"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Power Screwshield 1.0a" modelIndex="5790" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Power Screwshield 1.0a.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SPARKCORE_v1_fix" modelIndex="5677" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/SPARKCORE_v1_fix.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Cherry-MX-Keyswitch" modelIndex="1876132" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Cherry-MX-Keyswitch.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="RFduinoSMD_fix" modelIndex="1876134" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/RFduinoSMD_fix.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-FKIT-SNAP_CONNECTOR--FEMALE" modelIndex="1876136" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-fkit-snap_connector--female.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad_LED-v14" modelIndex="1873370" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad_LED-v14.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-4p-125v" modelIndex="1876139" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-4p-125v_8.fzp" flippedSMD="true">
+            <property name="part number" value="DF13#-4P-1.25V"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Fairchild_MBR745" modelIndex="1876141" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Fairchild_MBR745.fzp">
+            <property name="part number" value="MBR745"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-8p-125v" modelIndex="1876143" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-8p-125v_5.fzp" flippedSMD="true">
+            <property name="part number" value="DF13#-8P-1.25V"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad SimplePower-v13" modelIndex="1873522" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad SimplePower-v13.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="DRV8825_breakout" modelIndex="1873067" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/DRV8825_breakout.fzp">
+            <property name="part number" value="DRV 8825"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino Lilypad" modelIndex="1873961" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Mainboard-v18.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0571_smd-5p-v" modelIndex="1876148" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0571_smd-5p-v_8.fzp" flippedSMD="true">
+            <property name="part number" value="0533980571"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0719_smd-7p-h" modelIndex="1876150" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0719_smd-7p-h_8.fzp" flippedSMD="true">
+            <property name="part number" value="0532610719"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad-Simple-v25" modelIndex="1873389" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-Simple-v25.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-FKIT-RIBBON_CONNECTOR--2MM_L_REV2" modelIndex="1876153" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-fkit-ribbon_connector--2mm_l_rev2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="hirose-df13-2p-125v" modelIndex="5710" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-2p-125v_50.fzp" flippedSMD="true">
+            <property name="part number" value="DF13#-2P-1.25V"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="CD4048B_64153d6304720c78495cf70ab817988e_1" modelIndex="1876156" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/CD4048B_1.fzp">
+            <property name="part number" value="CD4048B"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LogoTextModuleID" modelIndex="5738" path=":/resources/parts/core/logotext.fzp">
+            <property name="logo" value="logo"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_3_rev-1.2_93cd6203faf853cc01c7e5d7831d3687_3" modelIndex="1876159" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/obsolete/Raspberry Pi 3.fzp">
+            <property name="part number" value="RPI-3-V1.2"/>
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SM130_fix" modelIndex="1876161" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/SM130_fix_c427b6f6464a187fb8ed11ae2f2868fc_2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_ENV-32X" modelIndex="1873406" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_ENV-32X.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0819_smd-8p-h" modelIndex="1876164" path="F:/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0819_smd-8p-h_4.fzp" flippedSMD="true">
+            <property name="part number" value="0532610819"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+    </instances>
+</module>
